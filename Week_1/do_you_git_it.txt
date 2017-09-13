@@ -1,7 +1,30 @@
-Commit 1 Answer
-I feel like i could best be described as an average guy born and raised in Midland. My hobbies revolve mostly around building and maintaining my personal computers at home.
-My number one goal is to finish my degree for better work opportunities. I have tried working for several years without a degree and made nearly no actual real advances in a career.
+Commit 1 
+Answer
+I feel like i could best be described as an average guy born and raised in Midland. 
+My hobbies revolve mostly around building and maintaining my personal computers at home.
 
-Commit 2 Answer
+My number one goal is to finish my degree for better work opportunities. 
+I have tried working for several years without a degree and made nearly no actual real advances in a career.
+
+
+
+Commit 2 
+Answer
 Version Control is important to keep a program, that is being worked on by possibly multiple desginers, consistent throughout the process.
+
 It also allows other programmers to view the different changes through the log and also allow for the different authors of the changes to be easily represented and credit be given.
+
+Commit 3
+Start
+	create github account = username and email
+	create public repository = ITSE1302
+	git checkout new branch = Week_1
+	in repository mkdir = WEEK_1
+	create file = do_you_git_it.txt
+	answer each question
+	git commit -m(message) each question
+	push commits to repository = origin/Week_1 branch
+	submission = URL of reository + new branch
+	paste subission to canvas
+Stop
+	
