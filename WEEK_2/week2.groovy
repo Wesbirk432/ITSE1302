@@ -18,12 +18,12 @@ print leet - result
 //Com4 - Creating math problems
 
 Integer leet = 2 + 7
-System.out.println(Integer leet)
+println Integer leet
 Integer leet = 12 / 2 + 7
-System.out.println(Integer leet)
+println Integer leet
 Integer leet = (5 + 4) * 2
-System.out.println(Integer leet)
+println Integer leet
 Integer leet = 6 / 2
-System.out.println(Integer leet)
+println Integer leet
 Bigdecimal result = (6 * 4) + 4
-System.out.println(Bigdecimal result)
+println Bigdecimal result
