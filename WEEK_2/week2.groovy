@@ -27,3 +27,11 @@ Integer leet = 6 / 2
 println Integer leet
 Bigdecimal result = (6 * 4) + 4
 println Bigdecimal result
+
+
+//Com5 - print defined variables and constants
+
+println String FIRST_NAME = "Weston"
+println LAST_NAME = "BIRKHEAD"
+println Integer leet = 1337
+println Bigdecimal result = leet / 7
